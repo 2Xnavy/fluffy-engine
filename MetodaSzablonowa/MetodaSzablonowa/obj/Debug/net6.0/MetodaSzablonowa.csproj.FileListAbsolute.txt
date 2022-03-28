@@ -1,0 +1,15 @@
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net6.0\MetodaSzablonowa.exe
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net6.0\MetodaSzablonowa.deps.json
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net6.0\MetodaSzablonowa.runtimeconfig.json
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net6.0\MetodaSzablonowa.dll
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\net6.0\MetodaSzablonowa.pdb
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.csproj.AssemblyReference.cache
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.AssemblyInfoInputs.cache
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.AssemblyInfo.cs
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.csproj.CoreCompileInputs.cache
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.dll
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\refint\MetodaSzablonowa.dll
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.pdb
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\MetodaSzablonowa.genruntimeconfig.cache
+C:\Users\SzyDawi\Desktop\C#\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\net6.0\ref\MetodaSzablonowa.dll
